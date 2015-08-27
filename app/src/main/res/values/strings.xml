@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">抓取布局</string>
+	
+	<string name="getLayout">开始抓取</string>
+</resources>
